@@ -24,9 +24,9 @@ This is a simple and user-friendly calculator developed using HTML, CSS, and Jav
 
 ## 📂 Project Structure
 
-├── index.html
-├── style.css
-├── script.js
+├── index.html <br>
+├── style.css  <br>
+├── script.js  <br>
 └── README.md
 
 ## 🎯 Learning Outcomes
